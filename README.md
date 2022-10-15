@@ -1,4 +1,5 @@
 # Latihan-VCS-Garnish
+<<<<<<< HEAD
 
 Repository ini dibuat untuk memenuhi tugas Bahasa Pemrograman
 
@@ -98,3 +99,5 @@ Berikut adalah langkah-langkah penggunaan GIT
 Sekian informasi yang dapat saya sampaikan
 
 ##TERIMA KASIH.
+=======
+>>>>>>> 962671defd0c6dd097d0feff8863a953f58e337e
