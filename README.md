@@ -1,8 +1,8 @@
 # Latihan-VCS-Garnish
+*Tugas Bahasa Pemrograman*
+1. *Buatlah satu repository LatihanVCS*
 
-*Buatlah satu repository LatihanVCS*
-
-*Buat file README.md, lalu isi file tersebut dengan penjelasan (tutorial) cara penggunaan git, dan langkah-langkahnya lengkapi juga dengan screenshot prosesnya.*
+2. *Buat file README.md, lalu isi file tersebut dengan penjelasan (tutorial) cara penggunaan git, dan langkah-langkahnya lengkapi juga dengan screenshot prosesnya.*
 
 Nama      : Garnish Andhika Pratama
 
@@ -41,7 +41,7 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 
 * Jika akun GitHub sudah selesai dibuat dan diverifikasi, Proses selanjutnya silahkan buat *Repository* seperti gamabr dibawah ini.
 **Noted** : 
-> * Repository Name : (Silahkan isi nama repository yang diinginkan, seperti contoh saya ingin membuat repository *LatihanVCS*)
+> * Repository Name : (Silahkan isi nama repository yang diinginkan, seperti contoh saya ingin membuat repository *Latihan-VCS-Garnish*)
 > * Description : (Isi dengan deskripsi atau penjelasan tentang repository Anda)
 > * Public / Private : (PIlih salah satu jenis repository akan bisa dilihan sama semua orang atau tidak)
 > * Add a README.md file : Centang pada bagian ini jika Anda menginginkan file README.md ada di repository Anda
@@ -63,10 +63,10 @@ Langkah pertama kita harus menyalin *link URL* git kita di Github, dengan cara t
 
 * *Pop Up* Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan *syntax* berikut :
 > git clone [URL]
-Pada contohnya, saya akan memasukkan *git clone https://github.com/mfarizalarfn/Latihan-VCS.git*
+Pada contohnya, saya akan memasukkan *https://github.com/Garnish16/Latihan-VCS-Garnish.git*
 ![Picture Git Clone](Picture/Git-Clone.png)
 
-* Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu *LatihanVCS* dengan mengetikkan *syntax* berikut :
+* Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu *Latihan-VCS-Garnish* dengan mengetikkan *syntax* berikut :
 > cd LatihanVCS/
 
 ![Picture Pilih Direktori](Picture/Cd-Latihan-VCS-Garnish.png)
@@ -89,16 +89,16 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+
 * Git *commit* telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, *Git Push* berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut :
 > git push
 
-![Picture - Git Push](picture/Git-Push.png)
+![Picture - Git Push](Picture/Git-Push.png)
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote. 
 
 ![Picture - View 2](Picture/Tampilan-setelah-membuat-NewRepository.png)
 
-Berikut adalah langkah-langkah penggunaan GIT
+Berikut adalah langkah-langkah penggunaan GIT HUB
 
 Sekian informasi yang dapat saya sampaikan
 
 ##TERIMA KASIH.
 =======
->>>>>>> 962671defd0c6dd097d0feff8863a953f58e337e
+>>>>>>> Garnish Andhika Pratama
