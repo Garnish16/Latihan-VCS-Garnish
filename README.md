@@ -13,7 +13,7 @@ Kelas      : TI.22.B.1
 ## Langkah-Langkah Penggunaan Git
 
 * Download Git terlebih dahulu, dengan link berikut ini : [Click Here](https://git-scm.com/)
-![Gambar Git SCM](pict/git-dwnld.PNG)
+![Gambar Git SCM](Latihan-VCS-Garnish/Picture File Gitbash/Halaman Git.PNG)
 
 * Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini : [Git Installation Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 ![Gambar Installation Guide](pict/git-install-guide.PNG)
