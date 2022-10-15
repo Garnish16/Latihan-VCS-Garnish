@@ -17,7 +17,7 @@ Kelas      : TI.22.B.1
 ## Langkah-Langkah Penggunaan Git
 
 * Download Git terlebih dahulu, dengan link berikut ini : [Click Here](https://git-scm.com/)
-![Gambar Git SCM](pict/git-dwnld.PNG)
+![Gambar Git SCM](file:///C:/Users/LENOVO/OneDrive/Desktop/Pict%20Pemrograman/Halaman%20Git.png)
 
 * Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini : [Git Installation Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 ![Gambar Installation Guide](pict/git-install-guide.PNG)
