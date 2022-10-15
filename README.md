@@ -1,12 +1,18 @@
 # Latihan-VCS-Garnish
 
-Repository ini dibuat untuk memenuhi tugas Bahasa Pemrograman
+Tugas Bahasa Pemrograman 
+1. Buatlah satu repository Latihan VCS
+2. Buat file README.md, lalu isi file tersebut dengan
+penjelasan (tutorial) cara penggunaan git, dan
+langkah-langkahnya lengkapi juga dengan screenshot
+prosesnya.
 
-Nama      : Mohamad Farizal Arifin
 
-Nim        : 312010231
+Nama      : Garnish Andhika Pratama
 
-Kelas      : TI.20.B.1
+Nim        : 312210161
+
+Kelas      : TI.22.B.1
 
 ## Langkah-Langkah Penggunaan Git
 
