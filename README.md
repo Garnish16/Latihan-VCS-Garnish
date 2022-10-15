@@ -1,6 +1,7 @@
 # Latihan-VCS-Garnish
 
 *Buatlah satu repository LatihanVCS*
+
 *Buat file README.md, lalu isi file tersebut dengan penjelasan (tutorial) cara penggunaan git, dan langkah-langkahnya lengkapi juga dengan screenshot prosesnya.*
 
 Nama      : Garnish Andhika Pratama
