@@ -67,7 +67,7 @@ Pada contohnya, saya akan memasukkan *https://github.com/Garnish16/Latihan-VCS-G
 ![Picture Git Clone](Picture/Git-Clone.png)
 
 * Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu *Latihan-VCS-Garnish* dengan mengetikkan *syntax* berikut :
-> cd LatihanVCS/
+> cd Latihan-VCS-Garnish/
 
 ![Picture Pilih Direktori](Picture/Cd-Latihan-VCS-Garnish.png)
 
@@ -93,12 +93,12 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote. 
 
-![Picture - View 2](Picture/Tampilan-setelah-membuat-NewRepository.png)
+![Picture - View 2](Picture/hasil%20akhir.png)
 
 Berikut adalah langkah-langkah penggunaan GIT HUB
 
 Sekian informasi yang dapat saya sampaikan
 
-##TERIMA KASIH.
+#ATAS PERTHATIANNYA, TERIMAKASIH.
 =======
 >>>>>>> Garnish Andhika Pratama
